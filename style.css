@@ -1,0 +1,54 @@
+
+body {
+display: block;
+margin: 8px;
+
+}
+element.style {
+    background: pink;
+      color: red;
+  }
+body {
+    color: black;
+    background: red;
+}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+/* código omitido */
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+/* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* código omitido */
+.container {
+    display: flex;
+}
+
+img {
+    height: 130px;
+}
